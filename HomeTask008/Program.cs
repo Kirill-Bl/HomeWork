@@ -17,7 +17,7 @@ while (n <= 0)
 }
 if (n % 2 == 0)
     Console.WriteLine("Ряд чётный чисел:");
-else if (n <=1)
+else if (n <= 1)
         Console.WriteLine("Чётных чисел нет");
 else
         Console.WriteLine("Ряд чётный чисел:");
