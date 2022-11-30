@@ -15,10 +15,10 @@ while (n <= 0)
     Console.Write("Input N = ");
     n = Convert.ToInt32(Console.ReadLine());   
 }
-if (n % 2 == 0 && n != 0)
+if (n % 2 == 0)
     Console.WriteLine("Ряд чётный чисел:");
-else if (n <=1 || n ==0)
-        Console.WriteLine("Чётных чисел нет");
+else if (n <= 1)
+        Console.WriteLine("Чётных чисел нет.");
 else
         Console.WriteLine("Ряд чётный чисел:");
 
