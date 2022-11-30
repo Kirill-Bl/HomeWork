@@ -24,4 +24,3 @@ else
 
 for (int a = 2; a < n + 1; a = a + 2)
     Console.Write($"{a} ");
-
