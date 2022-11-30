@@ -11,7 +11,7 @@ int n =  Convert.ToInt32(Console.ReadLine());
 
 while (n <= 0)
 {    
-    Console.WriteLine("Вы  ввели не натуральное число от 1 до N");
+    Console.WriteLine("Вы ввели не натуральное число от 1 до N");
     Console.Write("Input N = ");
     n = Convert.ToInt32(Console.ReadLine());   
 }
