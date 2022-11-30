@@ -4,23 +4,15 @@
 // 8 -> 2, 4, 6, 8
 
 Console.Clear();
-
 Console.WriteLine("Для отражения всех чётных чисел от 1 до N");
-Console.WriteLine("Условие: N - натуральное число");
+// Console.WriteLine("N - натуральное число");
 Console.Write("Input N = ");
 int n =  Convert.ToInt32(Console.ReadLine());     
-
-while(n <= 0)
-{
-    Console.WriteLine("Вы ввели не натуральное число от 1 до . . .");
-    Console.WriteLine("Input N = ");
-    n =  Convert.ToInt32(Console.ReadLine());  
-}
 
 if (n % 2 == 0 && n != 0)
     Console.WriteLine("Ряд чётный чисел:");
 else
-    if (n ==1 )
+    if (n <=1 || n ==0)
         Console.WriteLine("Чётных чисел нет");
     else
         Console.WriteLine("Ряд чётный чисел:");
