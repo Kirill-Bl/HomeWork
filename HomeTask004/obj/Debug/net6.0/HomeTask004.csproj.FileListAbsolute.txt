@@ -1,0 +1,15 @@
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\bin\Debug\net6.0\HomeTask004.exe
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\bin\Debug\net6.0\HomeTask004.deps.json
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\bin\Debug\net6.0\HomeTask004.runtimeconfig.json
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\bin\Debug\net6.0\HomeTask004.dll
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\bin\Debug\net6.0\HomeTask004.pdb
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.csproj.AssemblyReference.cache
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.AssemblyInfoInputs.cache
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.AssemblyInfo.cs
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.csproj.CoreCompileInputs.cache
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.dll
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\refint\HomeTask004.dll
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.pdb
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\HomeTask004.genruntimeconfig.cache
+C:\Learning\GeekBrains\Quarter I\Examples\WorkShops\HomeTask004\obj\Debug\net6.0\ref\HomeTask004.dll
