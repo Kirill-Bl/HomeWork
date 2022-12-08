@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+# User folders for samself work during and after the lectures, seminars
+[Ee]ample*/
+
 # User-specific files
 *.rsuser
 *.suo
