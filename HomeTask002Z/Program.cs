@@ -17,13 +17,14 @@ void FillArray(int[] name)
     int index = 0;
     while (index < length)
     {
-        name[index] = new Random().Next(0, 1001);
+        name[index] = new Random().Next(0, 1000);
+        // Console.WriteLine(name[index]);
         index++;
     }
 }
 
 Console.Clear();
-int N = new Random().Next(3, 1000);               //"Генерируем кол кустов"
+int N = new Random().Next(3, 1001);               //"Генерируем кол кустов"
 int[] bush = new int[N];
 Console.WriteLine("Количество кустов на ферме: " + N);
 FillArray(bush);
@@ -34,13 +35,27 @@ int index = 0;
 while (index < N)
 {
     if (temp <= max && index <= N - 3)
+    {
         temp = bush[index] + bush[index + 1] + bush[index + 2];
+        // Console.WriteLine("1 temp " + temp);
+        index++;
+    }
     else if (temp <= max && index == N - 2)
+    {
         temp = bush[N - 2] + bush[N - 1] + bush[0];
+        // Console.WriteLine("2 temp " + temp);
+        index++;
+    }
     else if (temp <= max && index == N - 1)
+    {
         temp = bush[N - 1] + bush[0] + bush[1];
+        // Console.WriteLine("3 temp " + temp);
+        index++;
+    }
     else
+    {
         max = temp;
-    index++;
+        // Console.WriteLine(" max " + max);
+    }
 }
 Console.Write("Максимальное число ягод за один заход = " + max);
